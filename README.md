@@ -4,3 +4,6 @@ With the recent increase in intelligent CCTVs for visual surveillance, a new ima
 The first stage generates low-resolution face images (LR-FIs), from which heavy rain has been removed from the LRHR-FIs to improve visibility. To realize this, an interpretable IDM-based network is constructed to predict physical parameters, such as rain streaks, transmission maps, and atmospheric light. In addition, the image
 reconstruction loss is evaluated to enhance the estimates of the physical parameters. For the second stage, which aims to reconstruct the HR-FIs from the LR-FIs outputted in the first stage, facial component guided adversarial learning (FCGAL) is applied to boost facial structure expressions. To focus on informative facial features and reinforce the authenticity of facial components, such as the eyes and nose, a face-parsing-guided generator and facial local discriminators are designed for FCGAL. The experimental results verify that the proposed approach based on physical-based network design and FCGAL can remove heavy rain and increase the resolution and
 visibility simultaneously. Moreover, the proposed heavy-rain face image restoration outperforms state-of-theart models of heavy rain removal, image-to-image translation, and superresolution. 
+
+paper : 
+source code : 
