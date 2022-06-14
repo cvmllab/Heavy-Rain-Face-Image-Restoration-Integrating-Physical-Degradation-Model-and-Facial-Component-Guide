@@ -10,6 +10,8 @@ visibility simultaneously. Moreover, the proposed heavy-rain face image restorat
 # Experimental results
 ![캡처](https://user-images.githubusercontent.com/73872706/173509622-c76f9609-80a2-440e-b9a5-285f7a978128.JPG)
 
+Experimental results : input LRHR-FIs, ground truth HR_FIs, SRGAN, proposed method (HRRM+FPM+SRGAN), proposed method (HRRM+FPM+FCG-GAN), heavy-rain removal, pix2pix, and face SR (left to right)
+
 # Source code
 
 [Link](https://drive.google.com/drive/folders/1M_zvJKF3ilsbYFuj_m1iyQjWgI_wQTx6?usp=sharing)
