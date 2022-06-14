@@ -1,4 +1,4 @@
-# Heavy Rain Face Image Restoration: Integrating Physical Degradation Model and Facial Component Guided Adversarial Learning - ([paper]https://arxiv.org/abs/2204.08307)
+# Heavy Rain Face Image Restoration: Integrating Physical Degradation Model and Facial Component Guided Adversarial Learning - ([paper](https://arxiv.org/abs/2204.08307))
 
 # Abstract
 
