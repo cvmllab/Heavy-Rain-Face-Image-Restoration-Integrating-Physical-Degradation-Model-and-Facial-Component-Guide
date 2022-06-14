@@ -7,9 +7,10 @@ The first stage generates low-resolution face images (LR-FIs), from which heavy 
 reconstruction loss is evaluated to enhance the estimates of the physical parameters. For the second stage, which aims to reconstruct the HR-FIs from the LR-FIs outputted in the first stage, facial component guided adversarial learning (FCGAL) is applied to boost facial structure expressions. To focus on informative facial features and reinforce the authenticity of facial components, such as the eyes and nose, a face-parsing-guided generator and facial local discriminators are designed for FCGAL. The experimental results verify that the proposed approach based on physical-based network design and FCGAL can remove heavy rain and increase the resolution and
 visibility simultaneously. Moreover, the proposed heavy-rain face image restoration outperforms state-of-theart models of heavy rain removal, image-to-image translation, and superresolution. 
 
-# Experimental results
-![캡처](https://user-images.githubusercontent.com/73872706/173509622-c76f9609-80a2-440e-b9a5-285f7a978128.JPG)
+# Proposed approach
 
+# Experimental results
+![캡처](https://user-images.githubusercontent.com/73872706/173512574-832a2788-3943-4979-8828-2ce272bd515b.JPG)
 Experimental results : input LRHR-FIs, ground truth HR_FIs, SRGAN, proposed method (HRRM+FPM+SRGAN), proposed method (HRRM+FPM+FCG-GAN), heavy-rain removal, pix2pix, and face SR (left to right)
 
 # Source code
