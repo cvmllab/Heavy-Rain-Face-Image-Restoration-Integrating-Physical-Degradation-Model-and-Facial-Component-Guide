@@ -8,6 +8,7 @@ reconstruction loss is evaluated to enhance the estimates of the physical parame
 visibility simultaneously. Moreover, the proposed heavy-rain face image restoration outperforms state-of-theart models of heavy rain removal, image-to-image translation, and superresolution. 
 
 # Experimental results
+![캡처](https://user-images.githubusercontent.com/73872706/173509461-15d21894-fe9f-4701-999b-23f2a89723ab.JPG)
 
 # Source code
 
