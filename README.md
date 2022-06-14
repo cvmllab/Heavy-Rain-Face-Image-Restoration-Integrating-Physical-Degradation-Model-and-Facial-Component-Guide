@@ -11,6 +11,7 @@ visibility simultaneously. Moreover, the proposed heavy-rain face image restorat
 ![캡처2](https://user-images.githubusercontent.com/73872706/173512800-9d2837d1-c9a6-45c6-b0cc-5e7b48d65b0a.jpg)
 
 # Proposed network
+![캡처3](https://user-images.githubusercontent.com/73872706/173513060-daca82e8-756a-49a2-b694-8286b4a11a53.jpg)
 
 # Experimental results
 ![캡처](https://user-images.githubusercontent.com/73872706/173512574-832a2788-3943-4979-8828-2ce272bd515b.JPG)
