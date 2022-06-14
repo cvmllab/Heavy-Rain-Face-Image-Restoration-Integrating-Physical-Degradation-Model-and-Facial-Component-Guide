@@ -8,9 +8,13 @@ reconstruction loss is evaluated to enhance the estimates of the physical parame
 visibility simultaneously. Moreover, the proposed heavy-rain face image restoration outperforms state-of-theart models of heavy rain removal, image-to-image translation, and superresolution. 
 
 # Proposed approach
+![캡처2](https://user-images.githubusercontent.com/73872706/173512800-9d2837d1-c9a6-45c6-b0cc-5e7b48d65b0a.jpg)
+
+# Proposed network
 
 # Experimental results
 ![캡처](https://user-images.githubusercontent.com/73872706/173512574-832a2788-3943-4979-8828-2ce272bd515b.JPG)
+
 Experimental results : input LRHR-FIs, ground truth HR_FIs, SRGAN, proposed method (HRRM+FPM+SRGAN), proposed method (HRRM+FPM+FCG-GAN), heavy-rain removal, pix2pix, and face SR (left to right)
 
 # Source code
