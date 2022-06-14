@@ -1,8 +1,8 @@
 # Heavy Rain Face Image Restoration: Integrating Physical Degradation Model and Facial Component Guided Adversarial Learning - ([paper](https://arxiv.org/ftp/arxiv/papers/2204/2204.08307.pdf))
 
-source code : [link](https://drive.google.com/drive/folders/1M_zvJKF3ilsbYFuj_m1iyQjWgI_wQTx6?usp=sharing)
+Source code : [Link](https://drive.google.com/drive/folders/1M_zvJKF3ilsbYFuj_m1iyQjWgI_wQTx6?usp=sharing)
 
-dataset : [link](https://drive.google.com/drive/folders/1JOLeYkVZBA5uUezmA_Ta9PRJl0Bn5cur?usp=sharing)
+Dataset : [Link](https://drive.google.com/drive/folders/1JOLeYkVZBA5uUezmA_Ta9PRJl0Bn5cur?usp=sharing)
 
 Abstract
 
